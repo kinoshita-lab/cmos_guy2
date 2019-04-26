@@ -4,7 +4,7 @@ CMOS野郎2は、シュミットトリガインバータ(TC7W14FU)を使った�
 ステレオラインアウトもあります。
 
 初代CMOS野郎(初代CMOS野郎
-https://github.com/kinoshita-lab/cmos-guy)を基板化&小型化したものです。
+https://github.com/kinoshita-lab/cmos-guy )を基板化&小型化したものです。
 
 ![CMOS野郎2](./image.JPG)
 
