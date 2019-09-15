@@ -6,7 +6,7 @@ CMOS野郎2は、シュミットトリガインバータ(TC7W14FU)を使った�
 初代CMOS野郎(初代CMOS野郎
 https://github.com/kinoshita-lab/cmos-guy )を基板化&小型化したものです。
 
-![CMOS野郎2](./image.JPG)
+<image src="./image.JPG" width="400">
 
 
 ## 基本的な使い方
@@ -25,4 +25,4 @@ https://github.com/kinoshita-lab/cmos-guy )を基板化&小型化したもので
 電池は **CR2032** を使って下さい。
 
 ## 回路
-![CMOS野郎2の回路図](./schematic.png)
+<img src="./schematic.png" width="800">
